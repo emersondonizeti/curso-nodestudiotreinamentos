@@ -14,7 +14,7 @@ Conheça mais em: https://www.nodestudio.com.br/
 <ol> 
   <li>
   <h3>HTML 5</h3>
-  <p align="justify">O curso de HTML5 visa apresentar os conceitos básicos do HTML e as principais mudanças e funcionalidades da quinta versão da linguagem. 
+  <p align="justify">O curso de HTML5 visa apresentar os conceitos básicos do HTML (uso de tags e suas aplicabilidades) e as principais mudanças e funcionalidades da quinta versão da linguagem. 
   </p>
   </li>  
 </ol>
