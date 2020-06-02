@@ -17,4 +17,9 @@ Conheça mais em: https://www.nodestudio.com.br/
   <p align="justify">O curso de HTML5 visa apresentar os conceitos básicos do HTML (uso de tags e suas aplicabilidades) e as principais mudanças e funcionalidades da quinta versão da linguagem. 
   </p>
   </li>  
+  <li>
+  <h3>CSS 3</h3>
+  <p align="justify">O curso de CSS3 aborda de maneira simples e objetiva o processo de criação de uma página web em HTML5 e CSS3. Ensinamentos como semântica, CSS produtivo e técnicas fundamentais para começar a trabalhar de forma mais ágil, ou seja, em “Design in the browser” (Desenhar no próprio browser).
+  </p>
+  </li>  
 </ol>
