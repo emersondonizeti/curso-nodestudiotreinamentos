@@ -22,4 +22,9 @@ Conheça mais em: https://www.nodestudio.com.br/
   <p align="justify">O curso de CSS3 aborda de maneira simples e objetiva o processo de criação de uma página web em HTML5 e CSS3. Ensinamentos como semântica, CSS produtivo e técnicas fundamentais para começar a trabalhar de forma mais ágil, ou seja, em “Design in the browser” (Desenhar no próprio browser).
   </p>
   </li>  
+  <li>
+  <h3>HTML5 & CSS3 na Prática</h3>
+  <p align="justify">O curso aborda de maneira simples e objetiva o processo de criação de uma página web em HTML5 e CSS3. Desenvolvendo uma página simples para aplicação dos conhecimentos vistos até agora.
+  </p>
+  </li> 
 </ol>
