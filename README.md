@@ -27,4 +27,11 @@ Conheça mais em: https://www.nodestudio.com.br/
   <p align="justify">O curso aborda de maneira simples e objetiva o processo de criação de uma página web em HTML5 e CSS3. Desenvolvendo uma página simples para aplicação dos conhecimentos vistos até agora.
   </p>
   </li> 
+  <li>
+  <h3>Design Responsivo</h3>
+  <p align="justify"> curso aborda todo processo de criação de um site responsivo. Desde o conceito, técnicas avançadas, elementos flexíveis, medias queries e muito mais. Indispensável para quaisquer profissionais da área de desenvolvimento web (FrontEnd e BackEnd).
+  </p>
+  </li> 
 </ol>
+
+O
