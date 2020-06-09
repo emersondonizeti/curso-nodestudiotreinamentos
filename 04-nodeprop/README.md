@@ -9,9 +9,9 @@ Estarei alimentando esse repositório com os arquivos que eu estarei utilizando 
 Conheça mais em: https://www.nodestudio.com.br/
 </p>
 
-<h2>Projeto NodeShop</h2>
+<h2>Projeto NodeProp</h2>
 
-<p>Neste projeto será desenvolvido uma página não responsiva com os conhecimentos passados até então. Tentando de forma mais completa abranger diversas tags usadas no HTML e muito estilo em CSS</p>
+<p>Neste projeto será desenvolvido uma página responsiva utilizando todo o conteúdo demonstrado até agora. Utilizando de Media Queries e Brakepoints para uma navegação mais fluída e funcional.</p>
 
 <ul>
 <li>Linguagens Utilizadas:
