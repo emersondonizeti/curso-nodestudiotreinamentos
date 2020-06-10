@@ -32,5 +32,11 @@ Conheça mais em: https://www.nodestudio.com.br/
   <p align="justify">O curso aborda todo processo de criação de um site responsivo. Desde o conceito, técnicas avançadas, elementos flexíveis, medias queries e muito mais. Indispensável para quaisquer profissionais da área de desenvolvimento web (FrontEnd e BackEnd).
   </p>
   </li> 
+  <li>
+  <h3>Materialize CSS</h3>
+  <p align="justify">O curso consiste na criação de sites responsivos usando as principais ferramentas do framework Materialize CSS. Abordando desde o básico ao avançado, ou seja, a configuração do ambiente e a instalação do framework até a criação de um site responsivo e agradável de forma correta.
+  </p>
+  </li> 
+
 </ol>
 
