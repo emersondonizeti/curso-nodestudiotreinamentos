@@ -37,6 +37,11 @@ Conheça mais em: https://www.nodestudio.com.br/
   <p align="justify">O curso consiste na criação de sites responsivos usando as principais ferramentas do framework Materialize CSS. Abordando desde o básico ao avançado, ou seja, a configuração do ambiente e a instalação do framework até a criação de um site responsivo e agradável de forma correta.
   </p>
   </li> 
+  <li>
+  <h3>Carreira WEB</h3>
+  <p align="justify">O curso aborda o passo a passo de como desenvolver um site completo, desde os fundamentos básicos de como utilizar as tags semanticas do HTML5, criar animações com CSS3, utilizar o framework Materialize CSS para implementar componentes interativos e deixar nossa página responsiva, até o registro de domínio e hospedagem. Aplicaremos também todas as técnicas necessárias para obter bons resultados nos mecanismos de busca.
+  </p>
+  </li> 
 
 </ol>
 
