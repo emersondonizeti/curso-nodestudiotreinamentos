@@ -36,33 +36,37 @@ html, body {height: 100%;}
 .sobre h2 {font-size: 2rem; color: #212121; text-transform: uppercase;}
 .sobre h2::after {content: '' ; display: block; width: 100px; border-top: 1px solid #2dc7d0; margin: 15px auto;}
 .sobre p {text-align: justify; line-height: 1.8rem;} 
-.sobre .missao-visao-valores {padding: 20px 0; margin-top: 35px;}
+.sobre .missao-visao-valores {padding: 20px 0px; margin-top: 35px;}
 .sobre .missao-visao-valores .icon {color:#fff;}
 .sobre .missao-visao-valores h3 {font-size: 1.5rem; color: #fff; text-transform: uppercase;}
 .sobre .missao-visao-valores p {color: #fff; text-align: center; font-weight: 500;}
 
-/**/ 
+/* SERVIÇOS */  
+
+.servicos {background-image: url('../img/textura2.png');}
+.servicos h2 {font-size: 2rem; color:#fff; text-transform: uppercase;}
+.servicos h2::after {content: '' ; display: block; width: 100px; border-top: 1px solid #2dc7d0; margin: 15px auto;}
+.servicos p {color: #fff;line-height: 1.8rem;}
+
+/* CONTATO */
+.contato {background-image: url('../img/textura1.png');}
+.contato .mapa {min-height: 560px;}
+.contato .mapa iframe {width: 100%; min-height: 560px; border:none}
+.contato .informacoes {background-image: url('../img/textura2.png'); min-height: 560px; padding: 30px;}
+.contato h4 {font-size: 1.2rem; text-transform: uppercase; font-weight: 900;}
+.contato .formulario {min-height: 560px; padding: 30px;}
+
 
 
 /* NAV CUSTOM */
 
-nav {
-    color: #fff;
-    background-color: #ee6e73;
-    width: 100%;
-    height: 94px;
-    line-height: 56px;
-  }
-
 nav.nav-extended .nav-wrapper {
     min-height: 94px;
-    height: auto;
-  }
+}
 
   .navbar-fixed {
     position: absolute;
     height: 94px;
-    z-index: 997;
   }
 
 nav ul li a {
@@ -70,11 +74,9 @@ nav ul li a {
     padding-top: 18px;
 }
 
-nav i,
+nav, nav i,
 nav [class^="mdi-"], nav [class*="mdi-"],
-nav i.material-icons {
-  display: block;
-  font-size: 24px;
+nav i.material-icons, nav a.button-collapse i {
   height: 94px;
   line-height: 94px;
 }
@@ -89,13 +91,35 @@ nav i.material-icons {
     color: #fff;
 }
 
+.row {margin-bottom: 0px; margin-top: 0px;}
 
+.servicos .btn-horario {margin-bottom: 20px; margin-top: 20px;}
 
+.tabs {background-color: #222;}
+.tabs .tab a {color: #fff;}
+.tabs .tab a:hover, .tabs .tab a.active {color: #2dc7d0;}
+.tabs .indicator {background-color: #2dc7d0;}
+
+/* UNIDADES */
+.unidades {background-image: url('../img/bg-unidades.jpg'); background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+.unidades h2 {font-size: 2rem; color:#fff; text-transform: uppercase;}
+.unidades h2::after {content: '' ; display: block; width: 100px; border-top: 1px solid #2dc7d0; margin: 15px auto;}
+.unidades p {color: #fff;line-height: 1.8rem;}
+
+/* DEPOIMENTOS */
+.depoimentos h2 {font-size: 2rem; color: #212121; text-transform: uppercase;}
+.depoimentos h2::after {content: '' ; display: block; width: 100px; border-top: 1px solid #fff; margin: 15px auto;}
+.depoimentos img {width: 100px;}
+.depoimentos h4 {font-size: 1.2rem; font-weight: 700;}
+.depoimentos .justify-depo {text-align: justify;}
+
+/* RODAPE */
+.rodape {background-image: url('../img/bg-rodape.jpg'); background-repeat: no-repeat; background-size: cover; padding: 30px 0;;}
 
 /* MEDIA */
 
 @media only screen and (max-width: 480px) {
-   
+.card-image-horizontal {display: none;}
 }
 
 @media only screen and (min-width: 601px) {
