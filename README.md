@@ -42,6 +42,11 @@ Conheça mais em: https://www.nodestudio.com.br/
   <p align="justify">O curso aborda o passo a passo de como desenvolver um site completo, desde os fundamentos básicos de como utilizar as tags semanticas do HTML5, criar animações com CSS3, utilizar o framework Materialize CSS para implementar componentes interativos e deixar nossa página responsiva, até o registro de domínio e hospedagem. Aplicaremos também todas as técnicas necessárias para obter bons resultados nos mecanismos de busca.
   </p>
   </li> 
+  <li>
+  <h3>Flexbox</h3>
+  <p align="justify">O curso de CSS Flexbox ensina como criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. Assim você não precisará mais definir valores fixos e flutuar elementos para criar o seu layout. Vamos iniciar pelos fundamentos, ensinando todas as propriedades e o que elas fazem no CSS. Após estes vamos criar um projeto real para colocarmos em prática o aprendizado.
+  </p>
+  </li> 
 
 </ol>
 
