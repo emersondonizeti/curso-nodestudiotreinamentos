@@ -1,4 +1,4 @@
-<p align="center"><img src=https://a.imagem.app/fMRVy.png align=></p>
+<p align="center"><img src="00-assets/logonode.png"></p>
 <h1 align="center">Node Studio Treinamentos</h1>
 <p align="justify">
   Cursos gratuitos ofertados na plataforma da Node Studio, partindo do básico de desenvolvimento para WEB com cursos de HTML e CSS,
